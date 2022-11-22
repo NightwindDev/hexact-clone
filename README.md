@@ -8,4 +8,4 @@
 I used this project as a way of polishing and improving my ReactJS skills.
 
 ## Live version available at:
-<a href="https://placeholer.placeholder">https://placeholder.placeholder</a>
+<a href="https://hexact-clone.pages.dev">https://hexact-clone.pages.dev</a>
